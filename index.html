@@ -18,6 +18,8 @@
         <input type="text" id="prenume" name="prenume" placeholder="Prenume">
         <label for="cnp">Cod Numeric Personal</label>
         <input type="number" id="cnp" name="cnp" placeholder="CNP">
+        <label for="locmunca">Loc de munca</label>
+        <input type="text" id="locmunca" name="locmunca" placeholder="Loc de munca">
         <label for="status">Status Profesional</label>
         <select id="status" name="status">
           <option value="unselected">Alege un status profesional</option>
@@ -91,10 +93,11 @@
     function validateForm() {
       let nume = document.forms["registerForm"]["nume"].value;
       let prenume = document.forms["registerForm"]["prenume"].value;
+      let loc_munca = document.forms["registerForm"]["locmunca"].value;
       let cnp = document.forms["registerForm"]["cnp"].value;
       let status = document.forms["registerForm"]["status"].value;
       let field = document.forms["registerForm"]["field"].value;
-      if (nume == "" || prenume == "") {
+      if (nume == "" || prenume == "" || loc_munca == "") {
         alert("Va rugam sa completati toate campurile.");
         return false;
       } else if (cnp.length != 13) {
@@ -112,4 +115,3 @@
   </script>
 
 </html>
-
