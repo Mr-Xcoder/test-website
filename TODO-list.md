@@ -1,0 +1,59 @@
+The following fields have to be added:
+
+- [] Status Profesional:
+  - [] Rezident
+  - [] Specialist / Primar
+- [] Specialitate:
+  - [] Alergologie și imunologie clinică‎
+  - [] Anestezie și terapie intensivă‎
+  - [] Boli infecțioase‎
+  - [] Cardiologie‎
+  - [] Chirurgie‎
+  - [] Chirurgie cardiovasculară‎
+  - [] Chirurgie generală‎
+  - [] Chirurgie oro-maxilo-facială‎
+  - [] Chirurgie pediatrică‎
+  - [] Chirurgie plastică-microchirurgie reconstructivă‎
+  - [] Chirurgie toracică‎
+  - [] Chirurgie vasculară‎
+  - [] Dermatovenerologie‎
+  - [] Diabet zaharat, nutriție și boli metabolice‎
+  - [] Endocrinologie‎
+  - [] Epidemiologie‎
+  - [] Gastroenterologie‎
+  - [] Genetică medicală‎
+  - [] Geriatrie și gerontologie‎
+  - [] Hematologie‎
+  - [] Igienă‎
+  - [] Medicina muncii‎
+  - [] Medicină clinică‎
+  - [] Medicină de familie‎
+  - [] Medicină de laborator‎
+  - [] Medicină de urgență‎
+  - [] Medicină internă‎
+  - [] Medicină legală‎
+  - [] Medicină nucleară‎
+  - [] Medicină sportivă‎
+  - [] Nefrologie‎
+  - [] Neonatologie‎
+  - [] Neurochirurgie‎
+  - [] Neurologie‎
+  - [] Neurologie pediatrică‎
+  - [] Obstetrică - ginecologie‎
+  - [] Oftalmologie‎
+  - [] Oncologie‎
+  - [] Ortopedie pediatrică‎
+  - [] Ortopedie și traumatologie‎
+  - [] Otorinolaringologie‎
+  - [] Patologie‎
+  - [] Pediatrie‎
+  - [] Pneumologie‎
+  - [] Podiatrie‎
+  - [] Psihiatrie‎
+  - [] Psihiatrie pediatrică‎
+  - [] Radiologie-imagistică medicală‎
+  - [] Recuperare medicală‎
+  - [] Reumatologie‎
+  - [] Sănătate publică‎
+  - [] Stomatologie‎
+  - [] Urologie‎
