@@ -12,13 +12,69 @@
 
     <div class="form">
       <form name="registerForm" onsubmit="return validateForm()" method="post">
-        <label for="Nume">Nume</label>
+        <label for="nume">Nume</label>
         <input type="text" id="nume" name="nume" placeholder="Nume">
-
-        <label for="Prenume">Prenume</label>
+        <label for="prenume">Prenume</label>
         <input type="text" id="prenume" name="prenume" placeholder="Prenume">
-        <label for="CNP">Cod Numeric Personal</label>
+        <label for="cnp">Cod Numeric Personal</label>
         <input type="number" id="cnp" name="cnp" placeholder="CNP">
+        <label for="field">Specialitate</label>
+        <select id="field" name="field">
+          <option value="unselected">Alege o specialitate</option>
+          <option value="alergologie-și-imunologie-clinică">Alergologie și imunologie clinică</option>
+          <option value="anestezie-și-terapie-intensivă">Anestezie și terapie intensivă</option>
+          <option value="boli-infecțioase">Boli infecțioase</option>
+          <option value="cardiologie">Cardiologie</option>
+          <option value="chirurgie">Chirurgie</option>
+          <option value="chirurgie-cardiovasculară">Chirurgie cardiovasculară</option>
+          <option value="chirurgie-generală">Chirurgie generală</option>
+          <option value="chirurgie-oro-maxilo-facială">Chirurgie oro-maxilo-facială</option>
+          <option value="chirurgie-pediatrică">Chirurgie pediatrică</option>
+          <option value="chirurgie-plastică-microchirurgie-reconstructivă">Chirurgie plastică-microchirurgie reconstructivă</option>
+          <option value="chirurgie-toracică">Chirurgie toracică</option>
+          <option value="chirurgie-vasculară">Chirurgie vasculară</option>
+          <option value="dermatovenerologie">Dermatovenerologie</option>
+          <option value="diabet-zaharat,-nutriție-și-boli-metabolice">Diabet zaharat, nutriție și boli metabolice</option>
+          <option value="endocrinologie">Endocrinologie</option>
+          <option value="epidemiologie">Epidemiologie</option>
+          <option value="gastroenterologie">Gastroenterologie</option>
+          <option value="genetică-medicală">Genetică medicală</option>
+          <option value="geriatrie-și-gerontologie">Geriatrie și gerontologie</option>
+          <option value="hematologie">Hematologie</option>
+          <option value="igienă">Igienă</option>
+          <option value="medicina-muncii">Medicina muncii</option>
+          <option value="medicină-clinică">Medicină clinică</option>
+          <option value="medicină-de-familie">Medicină de familie</option>
+          <option value="medicină-de-laborator">Medicină de laborator</option>
+          <option value="medicină-de-urgență">Medicină de urgență</option>
+          <option value="medicină-internă">Medicină internă</option>
+          <option value="medicină-legală">Medicină legală</option>
+          <option value="medicină-nucleară">Medicină nucleară</option>
+          <option value="medicină-sportivă">Medicină sportivă</option>
+          <option value="nefrologie">Nefrologie</option>
+          <option value="neonatologie">Neonatologie</option>
+          <option value="neurochirurgie">Neurochirurgie</option>
+          <option value="neurologie">Neurologie</option>
+          <option value="neurologie-pediatrică">Neurologie pediatrică</option>
+          <option value="obstetrică---ginecologie">Obstetrică - ginecologie</option>
+          <option value="oftalmologie">Oftalmologie</option>
+          <option value="oncologie">Oncologie</option>
+          <option value="ortopedie-pediatrică">Ortopedie pediatrică</option>
+          <option value="ortopedie-și-traumatologie">Ortopedie și traumatologie</option>
+          <option value="otorinolaringologie">Otorinolaringologie</option>
+          <option value="patologie">Patologie</option>
+          <option value="pediatrie">Pediatrie</option>
+          <option value="pneumologie">Pneumologie</option>
+          <option value="podiatrie">Podiatrie</option>
+          <option value="psihiatrie">Psihiatrie</option>
+          <option value="psihiatrie-pediatrică">Psihiatrie pediatrică</option>
+          <option value="radiologie-imagistică-medicală">Radiologie-imagistică medicală</option>
+          <option value="recuperare-medicală">Recuperare medicală</option>
+          <option value="reumatologie">Reumatologie</option>
+          <option value="sănătate-publică">Sănătate publică</option>
+          <option value="stomatologie">Stomatologie</option>
+          <option value="urologie">Urologie</option>
+        </select>
         <input type="submit" value="Inregistreaza">
         <input type="reset" value="Sterge">
       </form>
@@ -27,14 +83,18 @@
   </body>
   <script>
     function validateForm() {
-      var nume = document.forms["registerForm"]["nume"].value;
-      var prenume = document.forms["registerForm"]["prenume"].value;
-      var cnp = document.forms["registerForm"]["cnp"].value;
+      let nume = document.forms["registerForm"]["nume"].value;
+      let prenume = document.forms["registerForm"]["prenume"].value;
+      let cnp = document.forms["registerForm"]["cnp"].value;
+      let field = document.forms["registerForm"]["field"].value;
       if (nume == "" || prenume == "") {
         alert("Va rugam sa completati toate campurile.");
         return false;
       } else if (cnp.length != 13) {
         alert("CNP-ul introdus nu este valid. Va rugam sa il reintroduceti.");
+        return false;
+      } else if (field == "unselected") {
+        alert("Va rugam selectati o specialitate.");
         return false;
       }
       return true;
