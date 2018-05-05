@@ -1,59 +1,61 @@
 The following fields have to be added:
 
-- [] Status Profesional:
-  - [] Rezident
-  - [] Specialist / Primar
-- [] Specialitate:
-  - [] Alergologie și imunologie clinică‎
-  - [] Anestezie și terapie intensivă‎
-  - [] Boli infecțioase‎
-  - [] Cardiologie‎
-  - [] Chirurgie‎
-  - [] Chirurgie cardiovasculară‎
-  - [] Chirurgie generală‎
-  - [] Chirurgie oro-maxilo-facială‎
-  - [] Chirurgie pediatrică‎
-  - [] Chirurgie plastică-microchirurgie reconstructivă‎
-  - [] Chirurgie toracică‎
-  - [] Chirurgie vasculară‎
-  - [] Dermatovenerologie‎
-  - [] Diabet zaharat, nutriție și boli metabolice‎
-  - [] Endocrinologie‎
-  - [] Epidemiologie‎
-  - [] Gastroenterologie‎
-  - [] Genetică medicală‎
-  - [] Geriatrie și gerontologie‎
-  - [] Hematologie‎
-  - [] Igienă‎
-  - [] Medicina muncii‎
-  - [] Medicină clinică‎
-  - [] Medicină de familie‎
-  - [] Medicină de laborator‎
-  - [] Medicină de urgență‎
-  - [] Medicină internă‎
-  - [] Medicină legală‎
-  - [] Medicină nucleară‎
-  - [] Medicină sportivă‎
-  - [] Nefrologie‎
-  - [] Neonatologie‎
-  - [] Neurochirurgie‎
-  - [] Neurologie‎
-  - [] Neurologie pediatrică‎
-  - [] Obstetrică - ginecologie‎
-  - [] Oftalmologie‎
-  - [] Oncologie‎
-  - [] Ortopedie pediatrică‎
-  - [] Ortopedie și traumatologie‎
-  - [] Otorinolaringologie‎
-  - [] Patologie‎
-  - [] Pediatrie‎
-  - [] Pneumologie‎
-  - [] Podiatrie‎
-  - [] Psihiatrie‎
-  - [] Psihiatrie pediatrică‎
-  - [] Radiologie-imagistică medicală‎
-  - [] Recuperare medicală‎
-  - [] Reumatologie‎
-  - [] Sănătate publică‎
-  - [] Stomatologie‎
-  - [] Urologie‎
+-[ ] Status Profesional:
+  - [ ] Rezident
+  - [ ] Specialist / Primar
+-[ ] Specialitate:
+  - [ ] Alergologie și imunologie clinică
+  - [ ] Anestezie și terapie intensivă
+  - [ ] Boli infecțioase
+  - [ ] Cardiologie
+  - [ ] Chirurgie
+  - [ ] Chirurgie cardiovasculară
+  - [ ] Chirurgie generală
+  - [ ] Chirurgie oro-maxilo-facială
+  - [ ] Chirurgie pediatrică
+  - [ ] Chirurgie plastică-microchirurgie reconstructivă
+  - [ ] Chirurgie toracică
+  - [ ] Chirurgie vasculară
+  - [ ] Dermatovenerologie
+  - [ ] Diabet zaharat, nutriție și boli metabolice
+  - [ ] Endocrinologie
+  - [ ] Epidemiologie
+  - [ ] Gastroenterologie
+  - [ ] Genetică medicală
+  - [ ] Geriatrie și gerontologie
+  - [ ] Hematologie
+  - [ ] Igienă
+  - [ ] Medicina muncii
+  - [ ] Medicină clinică
+  - [ ] Medicină de familie
+  - [ ] Medicină de laborator
+  - [ ] Medicină de urgență
+  - [ ] Medicină internă
+  - [ ] Medicină legală
+  - [ ] Medicină nucleară
+  - [ ] Medicină sportivă
+  - [ ] Nefrologie
+  - [ ] Neonatologie
+  - [ ] Neurochirurgie
+  - [ ] Neurologie
+  - [ ] Neurologie pediatrică
+  - [ ] Obstetrică - ginecologie
+  - [ ] Oftalmologie
+  - [ ] Oncologie
+  - [ ] Ortopedie pediatrică
+  - [ ] Ortopedie și traumatologie
+  - [ ] Otorinolaringologie
+  - [ ] Patologie
+  - [ ] Pediatrie
+  - [ ] Pneumologie
+  - [ ] Podiatrie
+  - [ ] Psihiatrie
+  - [ ] Psihiatrie pediatrică
+  - [ ] Radiologie-imagistică medicală
+  - [ ] Recuperare medicală
+  - [ ] Reumatologie
+  - [ ] Sănătate publică
+  - [ ] Stomatologie
+  - [ ] Urologie
+  
+[Reference](https://tio.run/##fVXNThsxED6Tp7BySlSC2BBCQe2h/BQ4QCIQp5SD4zgbS157ZXujwqkS9x4rVbxJzxx4Dl4kHU@yzmZ34bLa9ffNzDd/3vTBzbTaWyxEkmrjiH2wjQY1MfnqX3fgbT6K7ndsKoVrNX@oZrvRmGpDBBGKAHrU2BJTIrlqiTb5QrrwvcW0ckJlvLHFpeX@xIK7JiEdMiL3TfKJiFF0dA/nYNpsNb0r62nIs6MjuzMVatICqA02kWemRijXsu3FYvH25x/5JrmJtdSx4OT1L4hJMrX6ZFIowV6e3n79Jq0uOdkmXTJsN9BKcev448rGcUNTeAfHXFkxL5r0vckxGh1r6ZOdcvb6LDS1HFlR5Gn7e553grwTaiZiqaEQei@PfTITJjM5uOfBCITBk3wvMQhDV3NqWSapWemKKp5IzBXkIFeEaiiije4k9KeQujOlTARqt0pN@URQZ0LlasKlklrnCZ1EMKNZAAyHlltnMuZCGWvUOG1AxAcBKhn7InnaKRJPuUmo03OfdaXQubdTQcfckUc6o4a6baIySAo6t@z52Dcz4Y76F1awxzBn6OFMTTSDcSuE6HtKyOgsFROeVHod9TzhHCnnUCmjOUxWRelh7uYc8sBygqCJYKE567SXLIN9WeqPwZ9yBZdRSP4C6Rfcl2iN46D10NslEi4BUXmkHoZCRVeIXnklQlEC@8SEKMxqrmfFANWlRavgE06mNBEyJF/HkNAJ6JM2pWwqRJgQrl6fw3R5TTWi/DIbVaxkjTvJ41DtfhVWGZM8TGGNvfVXZZj0KAzHNfKu@dSUO/Q5d3LNtdpoUHeNZIWdKnkOhLXhAYL9Klq/ygNkDcZwAS4huFljoWBzS8MSpA6mjsqkAOO0dEPEgWJl8CBgxmkv44N7ZU3By9jQrGZyQ/IDGBG/khSecXmlcPGGyBtu@FjO927uZLjSUqjucmkRVDxL3l3Wod40zY@tmBXOD1HzbhWtL8MNsm5o/t/oiITGwr57KQQ1N5xlKVz9htfeHb01r1TUCMftFsHblycYZkcdqMvGMkjb3yj8rdObLvrrEHfIuCtO5X7@Y2v/Bw)
