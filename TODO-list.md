@@ -1,6 +1,6 @@
 The following fields have to be added:
 
-- [ ] Status Profesional:
+- [x] Status Profesional:
   - [ ] Rezident
   - [ ] Specialist / Primar
 - [ ] Specialitate:
