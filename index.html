@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <title>Sindicatul Camera Medicilor Constanta</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="stylesheet.css">
 
+  <body>
+
+    <h2 align="center">
+      Sindicatul Camera Medicilor Constanta
+    </h2>
+
+    <div class="form">
+      <form name="registerForm" onsubmit="return validateForm()" method="post">
+        <label for="Nume">Nume</label>
+        <input type="text" id="nume" name="nume" placeholder="Nume">
+
+        <label for="Prenume">Prenume</label>
+        <input type="text" id="prenume" name="prenume" placeholder="Prenume">
+        <label for="CNP">Cod Numeric Personal</label>
+        <input type="number" id="cnp" name="cnp" placeholder="CNP">
+        <input type="submit" value="Inregistreaza">
+        <input type="reset" value="Sterge">
+      </form>
+    </div>
+
+  </body>
+  <script>
+    function validateForm() {
+      var nume = document.forms["registerForm"]["nume"].value;
+      var prenume = document.forms["registerForm"]["prenume"].value;
+      var cnp = document.forms["registerForm"]["cnp"].value;
+      if (nume == "" || prenume == "") {
+        alert("Va rugam sa completati toate campurile.");
+        return false;
+      } else if (cnp.length != 13) {
+        alert("CNP-ul introdus nu este valid. Va rugam sa il reintroduceti.");
+        return false;
+      }
+      return true;
+    }
+
+  </script>
+
+</html>
