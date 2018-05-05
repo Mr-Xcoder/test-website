@@ -1,9 +1,9 @@
 The following fields have to be added:
 
--[ ] Status Profesional:
+- [ ] Status Profesional:
   - [ ] Rezident
   - [ ] Specialist / Primar
--[ ] Specialitate:
+- [ ] Specialitate:
   - [ ] Alergologie și imunologie clinică
   - [ ] Anestezie și terapie intensivă
   - [ ] Boli infecțioase
